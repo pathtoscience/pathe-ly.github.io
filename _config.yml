@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pathe LY"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD, Applied Mathematics"
   location         : "Saint Louis - Senegal"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rW2NUVcAAAAJ&hl=fr"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mamadou-Ly-5"
   uri              :
   bitbucket        :
   codepen          :
