@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Path2Science"
 title_separator          : "-"
-name                     : &name "Pathe LY"
+name                     : &name "Pathe LY - Science universe"
 description              : &description "PhD & Engineer, dynamical systems, Stochastic analysis, Control theory, Data science and Machine Learning"
 url                      : https://pathtoscience.github.io/pathe-ly.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
