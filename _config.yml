@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Path2Science"
 title_separator          : "-"
-name                     : &name "Pathe LY - Science universe"
+name                     : &name "Pathe LY"
 description              : &description "PhD & Engineer, dynamical systems, Stochastic analysis, Control theory, Data science and Machine Learning"
 url                      : https://pathtoscience.github.io/pathe-ly.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pathe LY"
+  name             : "Pathe LY - Science universe"
   avatar           : "profile.png"
   bio              : "PhD, Applied Mathematics"
   location         : "Saint Louis - Senegal"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pathtosciene"
   google_plus      :
   keybase          :
   instagram        :
