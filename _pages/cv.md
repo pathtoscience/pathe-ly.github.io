@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, Gaston Berger University, 2016
+* M.S. in Applied Mathematics,  Gaston Berger University, 2019
+* Ph.D in Dynamic Systems, Control Theory, Stochastic Analysis Gaston Berger University, 2023 (expected)
 
 Work experience
 ======
