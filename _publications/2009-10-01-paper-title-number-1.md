@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-10-01
 venue: 'Discussiones Mathematicae Journal'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'M. A. Diop, K. Ezzinbi M. P. Ly. (2022). &quot;Paper Title Number 1.&quot; <i> Discussiones Mathematicae </i>. 1(1).'
+citation: 'M. A. Diop, K. Ezzinbi M. P. Ly. (2022). &quot; Nonlocal problems for integrodifferential equations via resolvent operators and optimal controls.&quot; <i> Discussiones Mathematicae </i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
