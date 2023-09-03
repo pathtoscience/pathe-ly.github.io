@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "Existence results for some partial stochastic integrodifferential equations with nonlocal conditions in Hilbert spaces"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: DOI:10.1080/27658449.2022.2043019
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
