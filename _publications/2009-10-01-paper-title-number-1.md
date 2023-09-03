@@ -1,7 +1,7 @@
 ---
 title: "Nonlocal problems for integrodifferential equations via resolvent operators and optimal controls"
 collection: publications
-permalink: DOI: 10.7151/dmdico.1231
+permalink: DOI:10.7151/dmdico.1231
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
