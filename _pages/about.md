@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal websites"
+title: "Hello, This is the 'Path to Science' website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
